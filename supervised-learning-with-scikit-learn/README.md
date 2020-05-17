@@ -1,4 +1,4 @@
-### Supervised Machine Learning
+## Supervised Machine Learning
 
 - Predict Variables/features and a target variable.
 - Aim: Predict the target variable, given the predictor variables.
