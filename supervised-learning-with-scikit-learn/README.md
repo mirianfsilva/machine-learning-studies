@@ -8,8 +8,8 @@ Need labeled data: historical data with labels, experiments to get labeled data,
 
 Some exploratory data analysis using samples from scikit-learn:
 
-**Classification**: Target variable consists of categories. 
+- **Classification**: Target variable consists of categories. 
     - Iris sample data exploratory; 
     - Digits sample data exploratory;
 
-**Regression**: Target variable is continuous. 
+- **Regression**: Target variable is continuous. 
