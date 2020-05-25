@@ -13,3 +13,4 @@ Some exploratory data analysis using toy datasets from scikit-learn:
     - Digits sample data exploratory;
 
 - **Regression**: Target variable is continuous. 
+    - Boston sample data exploratory;
