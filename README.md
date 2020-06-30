@@ -1,9 +1,9 @@
 ## Machine Learning Scientist - Studies
 
-This repository contains some of my Machine Learning studies.
+This repository contains some of my currently Machine Learning studies.
 
-To increase my essential skills in that topic. All items developed, in order to be used as tutorials in the future, are in Python and will have tools to perform supervised, unsupervised and deep learning.
+To increase my essential skills in that topic. All items developed are in the Python language and I will use tools to perform supervised, unsupervised and deep learning (to be used as tutorials in the future).
 
-Current approaches: Data processing, model training, evaluation performance and parameter adjustment for better performance.
+__Current approaches__: Data processing, model training, evaluation performance and parameter adjustment for better performance.
 
-Future approaches: Natural language processing, image processing and popular libraries, such as Spark and Keras.
+__Future approaches__: Natural language processing, image processing and popular libraries, such as Spark and Keras.
