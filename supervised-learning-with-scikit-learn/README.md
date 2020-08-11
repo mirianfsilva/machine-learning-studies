@@ -42,3 +42,19 @@ Topics explained in [Regression | Data exploration using boston housing dataset]
     - Lasso Regression;
         - Lasso regression for feature selection;
 
+-----------
+Topics explained in [Fine Tuning your Model](https://github.com/mirianfsilva/machine-learning-studies/blob/master/supervised-learning-with-scikit-learn/fine-tuning-your-model.ipynb)
+
+- Classification Metrics;
+- Diagnosing classification predictions;
+- Metrics from the Confusion Matrix: 
+    - Precision;
+    - Recall;
+    - F1-score;
+- Logistic regression and the ROC curve:
+    - Logistic regression for binary classification;
+    - Probability thresholds;
+    - The ROC curve and area under the ROC curve;
+- Hyperparameter Tuning;
+- Choosing the correct hyperparameter;
+
